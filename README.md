@@ -15,6 +15,7 @@ I'm a passionate backend developer with over 10 years of experience in software 
 - Programming Languages: NodeJS, PHP, Python
 - Frameworks: Laravel, NestJS
 - Tools: Git, Docker, RabbitMQ, Redis
+- Databases: MongoDB, PostgreSQL, MySQL
 
 ## 🌟 Projects
 
